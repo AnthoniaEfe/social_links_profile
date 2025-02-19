@@ -23,7 +23,7 @@ body {
   background-color: hsl(0, 0%, 12%);
   padding: 24px;
   width: 80%;
-  max-width: 386px;
+  max-width: 400px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -83,7 +83,7 @@ img {
 a {
   width: 100%;
   text-align: center;
-  padding: 4px 16px;
+  padding: 6px 16px;
   text-decoration: none;
   font-size: 12px;
   font-weight: 800;
